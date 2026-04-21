@@ -136,8 +136,6 @@ Model accuracy improvements
 
 Aditya Tripathi
 B.Tech – SRM University-AP
-C
-
 💻 Full Stack Developer
 📊 Data Science Enthusiast
 📜 License
